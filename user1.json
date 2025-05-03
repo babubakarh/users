@@ -47,7 +47,8 @@
       "password": "24hrs",
       "hwid": "free",
       "expiryDate": "2025-05-04 13:45:15",
-      "creationDate": "2025-05-03 13:45:40"
+      "creationDate": "2025-05-03 13:45:40",
+      "lastUsed": "2025-05-03 02:27:27"
     }
   }
 }
