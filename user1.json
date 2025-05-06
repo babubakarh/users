@@ -58,9 +58,10 @@
     },
     "romi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "943B6C00-509C-11E4-A472-A0D3C14B0136",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-06 08:08:42"
+      "creationDate": "2025-05-06 08:08:42",
+      "lastUsed": "2025-05-06 19:14:30"
     },
     "doodly": {
       "password": "1",
