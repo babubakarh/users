@@ -25,7 +25,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-02 17:34:19",
-      "lastUsed": "2025-05-06 07:45:26"
+      "lastUsed": "2025-05-06 07:59:28"
     }
   },
   "INSANE": {
@@ -35,18 +35,6 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-12 10:19:58",
       "lastUsed": "2025-05-05 19:49:47"
-    },
-    "rehan": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-06 07:58:37"
-    },
-    "bypasscus": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-06 07:59:21"
     }
   }
 }
