@@ -38,9 +38,10 @@
     },
     "2": {
       "password": "2",
-      "hwid": "",
+      "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-06 08:02:38"
+      "creationDate": "2025-05-06 08:02:38",
+      "lastUsed": "2025-05-06 14:49:43"
     },
     "bypasscus": {
       "password": "1",
