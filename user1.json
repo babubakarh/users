@@ -65,9 +65,10 @@
     },
     "doodly": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0054-5110-804A-B7C04F315231",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-06 08:15:23"
+      "creationDate": "2025-05-06 08:15:23",
+      "lastUsed": "2025-05-14 22:49:13"
     },
     "hamza": {
       "password": "1",
