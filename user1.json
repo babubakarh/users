@@ -52,9 +52,10 @@
     },
     "bypasscus": {
       "password": "1",
-      "hwid": "",
+      "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-06 08:02:53"
+      "creationDate": "2025-05-06 08:02:53",
+      "lastUsed": "2025-05-16 20:05:30"
     },
     "romi": {
       "password": "1",
