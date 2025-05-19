@@ -9,9 +9,10 @@
     },
     "sami": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-02 17:16:35"
+      "creationDate": "2025-05-02 17:16:35",
+      "lastUsed": "2025-05-19 19:18:14"
     },
     "awais": {
       "password": "1",
@@ -39,12 +40,6 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-19 19:15:23"
-    },
-    "1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-19 19:17:56"
     }
   },
   "INSANE": {
