@@ -127,6 +127,12 @@
       "expiryDate": "2025-06-05",
       "creationDate": "2025-05-30 10:00:34",
       "lastUsed": "2025-05-31 15:49:10"
+    },
+    "bakar": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-31 20:06:40"
     }
   }
 }
