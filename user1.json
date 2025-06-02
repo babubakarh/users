@@ -141,6 +141,24 @@
       "expiryDate": "2025-06-05",
       "creationDate": "2025-05-31 20:09:06",
       "lastUsed": "2025-06-02 05:37:11"
+    },
+    "trial1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-04",
+      "creationDate": "2025-06-02 06:31:21"
+    },
+    "trial2": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-04",
+      "creationDate": "2025-06-02 06:31:21"
+    },
+    "trial3": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-04",
+      "creationDate": "2025-06-02 06:31:21"
     }
   }
 }
