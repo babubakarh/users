@@ -160,6 +160,12 @@
       "hwid": "",
       "expiryDate": "2025-06-04",
       "creationDate": "2025-06-02 06:31:21"
+    },
+    "worrior": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-06-02 20:13:33"
     }
   }
 }
