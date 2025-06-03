@@ -163,9 +163,10 @@
     },
     "worrior": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0035-3210-8057-B9C04F445A31",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-06-02 20:13:33"
+      "creationDate": "2025-06-02 20:13:33",
+      "lastUsed": "2025-06-03 19:30:13"
     },
     "rayyan": {
       "password": "1",
