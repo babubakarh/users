@@ -173,6 +173,12 @@
       "expiryDate": "2025-06-10",
       "creationDate": "2025-06-02 20:17:51",
       "lastUsed": "2025-06-05 07:16:42"
+    },
+    "noor": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-20 19:27:42",
+      "creationDate": "2025-06-05 19:28:00"
     }
   }
 }
