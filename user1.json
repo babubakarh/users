@@ -190,7 +190,7 @@
     },
  "laptop": {
       "password": "1",
-      "hwid": "",
+      "hwid": "CE7CE6E9-7EBD-FFCC-B05D-2C7147BA9F1C",
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-24 11:08:00",
       "lastUsed": "2025-08-23 20:05:51"
@@ -198,3 +198,4 @@
   }
 
 }
+
