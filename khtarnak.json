@@ -5,15 +5,11 @@
       "password": "1",
       "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-02 17:16:35",
-      "lastUsed": "2025-05-20 15:44:54"
     },
     "awais": {
       "password": "1",
       "hwid": "4C4C4544-004E-5410-804D-C4C04F313032",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-02 17:32:06",
-      "lastUsed": "2025-08-23 11:13:32"
     }
   },
   "INSANE": {
@@ -21,15 +17,11 @@
       "password": "1",
       "hwid": "35389B80-7FE8-11E4-903A-C4346B6BBE4E",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-12 10:19:58",
-      "lastUsed": "2025-07-16 06:14:13"
     },
     "laptop": {
       "password": "1",
       "hwid": "CE7CE6E9-7EBD-FFCC-B05D-2C7147BA9F1C",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-08-24 11:08:00",
-      "lastUsed": "2025-08-23 20:05:51"
+      "expiryDate": "2025-08-23",
     }
   }
 
