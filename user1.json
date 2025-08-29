@@ -211,9 +211,10 @@
     },
     "indtester2": {
       "password": "1",
-      "hwid": "",
+      "hwid": "03000200-0400-0500-0006-000700080009",
       "expiryDate": "2025-08-31",
-      "creationDate": "2025-08-29 12:52:40"
+      "creationDate": "2025-08-29 12:52:40",
+      "lastUsed": "2025-08-29 14:57:53"
     },
     "usman": {
       "password": "1",
