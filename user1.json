@@ -213,6 +213,12 @@
       "hwid": "",
       "expiryDate": "2025-08-31",
       "creationDate": "2025-08-29 12:52:40"
+    },
+    "usman": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-08-29 13:07:48"
     }
   }
 }
