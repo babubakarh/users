@@ -207,6 +207,12 @@
       "expiryDate": "2025-08-31",
       "creationDate": "2025-08-29 09:22:10",
       "lastUsed": "2025-08-27 11:53:10"
+    },
+    "indtester2": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-08-31",
+      "creationDate": "2025-08-29 12:52:40"
     }
   }
 }
