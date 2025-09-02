@@ -56,13 +56,6 @@
     }
   },
   "INSANE": {
-    "1": {
-      "password": "1",
-      "hwid": "35389B80-7FE8-11E4-903A-C4346B6BBE4E",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-03-12 10:19:58",
-      "lastUsed": "2025-07-16 06:14:13"
-    },
     "bypasscus": {
       "password": "1",
       "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
