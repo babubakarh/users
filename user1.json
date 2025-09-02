@@ -56,13 +56,6 @@
     }
   },
   "INSANE": {
-    "bypasscus": {
-      "password": "1",
-      "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-06 08:02:53",
-      "lastUsed": "2025-07-09 10:37:45"
-    },
     "doodly": {
       "password": "1",
       "hwid": "4C4C4544-0054-5110-804A-B7C04F315231",
