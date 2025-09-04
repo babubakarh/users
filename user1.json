@@ -111,6 +111,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-30 09:14:39",
       "lastUsed": "2025-08-30 19:50:43"
+    },
+    "freebypassbyinsane": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-09-05 08:53:33",
+      "creationDate": "2025-09-04 08:53:38"
     }
   }
 }
