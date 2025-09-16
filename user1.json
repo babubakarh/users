@@ -38,9 +38,10 @@
     },
     "arsalan": {
       "password": "1",
-      "hwid": "",
+      "hwid": "DE59E800-3887-11E1-0000-082E5F0B15F5",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-09-14 16:37:10"
+      "creationDate": "2025-09-14 16:37:10",
+      "lastUsed": "2025-09-16 13:21:42"
     },
     "insane": {
       "password": "1",
