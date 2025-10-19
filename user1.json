@@ -41,8 +41,7 @@
       "password": "1",
       "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-09-14 16:37:10",
-      "lastUsed": "2025-10-12 01:58:35"
+      "creationDate": "2025-10-12 12:52:46"
     },
     "insane": {
       "password": "1",
@@ -64,19 +63,6 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-07 05:07:08",
       "lastUsed": "2025-10-19 14:57:57"
-    },
-    "rehanff": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-10-12 12:52:46"
-    },
-     "arsalan": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-10-12 12:52:46"
     }
   }
-
 }
