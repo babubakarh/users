@@ -35,7 +35,7 @@
       "hwid": "63A1F0E9-5D7C-11E6-9C43-BC00006E0000",
       "expiryDate": "No Expiry",
       "creationDate": "2025-09-14 13:37:56",
-      "lastUsed": "2025-11-06 15:50:00"
+      "lastUsed": "2025-11-06 17:09:49"
     },
     "arsalan": {
       "password": "1",
@@ -73,10 +73,9 @@
     },
     "waheed": {
       "password": "1",
-      "hwid": "1981BE00-475D-11E2-A5E8-10604B74BBB5",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-11-06 16:40:47",
-      "lastUsed": "2025-11-07 06:05:33"
+      "creationDate": "2025-11-06 16:40:47"
     }
   }
 }
